@@ -1,5 +1,22 @@
 {
   "scripts": {
     "test": "crimp test/test.json -g"
-  }
+  },
+  "name": "mucbuc_traverse",
+  "description": "* std::tuple traversal functions",
+  "version": "0.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mucbuc/traverse.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mucbuc/traverse/issues"
+  },
+  "homepage": "https://github.com/mucbuc/traverse#readme"
 }
