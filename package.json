@@ -2,7 +2,7 @@
   "scripts": {
     "test": "crimp test/test.json -g"
   },
-  "name": "mucbuc_traverse",
+  "name": "traverse",
   "description": "* std::tuple traversal functions",
   "version": "0.0.0",
   "main": "index.js",
